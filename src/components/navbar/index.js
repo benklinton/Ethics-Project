@@ -16,7 +16,7 @@ function Navigation() {
                     <Nav className="navbar-nav ml-auto">
                         <Nav.Link>Products</Nav.Link>
                         <Nav.Link>Services</Nav.Link>
-                        <Nav.Link>About</Nav.Link>
+                        <Nav.Link>Contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
