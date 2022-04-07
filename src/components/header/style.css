@@ -33,7 +33,6 @@
     padding: 18px 30px;
     font-size: 20px;
     line-height: 25px;
-    font-family: 'Ubuntu', sans-serif;
 }
 
 .center-buttons {
@@ -48,7 +47,7 @@
 }
 
 .button-color:hover {
-    color: black;
+    color: white;
     background-color: #F0964D;
     border-color: #F0964D;
 }

@@ -20,3 +20,29 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.expect-text {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.request-button {
+    margin-top: 2.5rem;
+    margin-right: 2.5rem;
+    border-radius: 30px;
+    padding: 18px 30px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.request-button-color {
+    color: #A303D4;
+    border-color: #A303D4;
+    background-color: transparent;
+}
+
+.request-button-color:hover {
+    color: white;
+    background-color: #A303D4;
+    border-color: #A303D4;
+}
