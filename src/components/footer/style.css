@@ -1,0 +1,16 @@
+/* Mobile style */
+
+/* Tablet and up style */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Landscape Tablet and up style */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Desktop Only style */
+@media only screen and (min-width: 1200px) {
+ 
+}
