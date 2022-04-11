@@ -1,5 +1,6 @@
 .about-header {
     margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
     text-align: center;
 }
 
@@ -45,4 +46,21 @@
     color: white;
     background-color: #A303D4;
     border-color: #A303D4;
+}
+
+.testimonals {
+    margin-top: 2.5rem;
+    text-align: center;
+}
+
+.testimonal-images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-size {
+    height: 200px;
+    width: 200px;
+
 }
