@@ -1,0 +1,14 @@
+.services-header {
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-image: linear-gradient(rgba(87, 88, 90, 0.575), rgba(87, 88, 90, 0.575)), url('./images/handshake.jpg');
+    height: 600px;
+}
+
+.header-text {
+    color:  white;
+    display: flex;
+    justify-content: center;
+    font-size: 65px;
+    text-align: center;
+}
