@@ -9,7 +9,7 @@ function Navigation() {
         <Navbar expand='lg'>
             <Container>
                 <Navbar.Brand>
-                    <Nav.Link href="/"><img src="https://via.placeholder.com/150x50?text=Logo" alt="Logo"></img></Nav.Link>
+                    <Nav.Link href="/"><img src="https://via.placeholder.com/150x50?text=Home" alt="Logo"></img></Nav.Link>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar nav"/>
                 <Navbar.Collapse id="responsive-navbar nav">
