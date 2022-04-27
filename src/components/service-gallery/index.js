@@ -15,7 +15,8 @@ class ServiceGallery extends Component {
                         key={item.id}
                         img={item.img}
                         title={item.title}
-                        description={item.description} />
+                        description={item.description}
+                        alt="" />
                 ))}
             </>
         );

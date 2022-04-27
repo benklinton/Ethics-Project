@@ -3,6 +3,19 @@
         "id": 1,
         "img": "images/buddha.jpg",
         "title": "Buddha's Junk Removal",
-        "description": "Insert text here"
+        "description": "Do you feel like you are clinging on to too much stuff? Is your soul stuck in an endless loop of desires and cravings? Now there is a way to let go of all that, with Buddha's Junk Removal. Gone are the days of a cluttered soul weighted down by material desires. With hundreds of temples around the world Buddha's specially trained monks will help you take out the spiritual garbage. Buddha’s monks use a special system called The Eightfold Path to help you find the junk in your soul and remove it in a safe and eco friendly way. After all a clean soul is a happy soul with purpose."
+    },
+    {
+        "id": 2,
+        "img": "images/old-man.jpg",
+        "title": "Ebenezer Life Coach",
+        "description": "Do you have a boatload of money you don't know what to do with? Or maybe you want to maximize the happiness of others by lifting others burdens. Ebenezer the Life Coach has just what you need. With over 180 years of experience in helping people live their best lives by teaching people how to maximize pleasure and minimize pain of the people around them. Ebenezer found his life calling when visited one night by three ghosts. They taught him the lessons he will teach you"
+    },
+    {
+        "id": 2,
+        "img": "images/pawn-shop.jpg",
+        "title": " St. Pauls Pawn Shop",
+        "description": "Do you have trials and tribulations and don't know what to do with them? We pay top virtues for trials of all shapes and sizes and in any condition. Come on down to St. Paul's Pawn Shop and trade in your trials for nice, new, shiny virtues! Nobody and I mean nobody beats our prices. With a wide variety of virtues to choose from we are the biggest dealer of virtues in the tri-county area. So come on down there is something for everyone."
     }
+    
 ]
